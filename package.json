@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gatsby": "^1.9.149"
+    "gatsby": "^1.9.149",
+    "video.js": "^6.4.0"
   }
 }
