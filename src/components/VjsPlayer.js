@@ -20,7 +20,7 @@ export default class VjsPlayer extends Component {
   render () {
     return (
       <div data-vjs-player>
-        <video ref={node => (this.videoNode = node)} className='video-js' />
+        <video ref={node => (this.videoNode = node)} className='video-js vjs-hq' />
       </div>
     )
   }
