@@ -4,7 +4,7 @@ import Player from '../components/VjsPlayer'
 export default () => {
   return (
     <div>
-      <Player />
+      <Player src="http://vjs.zencdn.net/v/oceans.mp4" />
     </div>
   )
 }
