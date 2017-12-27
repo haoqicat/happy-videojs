@@ -1,5 +1,6 @@
 export const options = {
   controls: true,
+  fluid: true,
   sources: [
     {
       src: 'http://vjs.zencdn.net/v/oceans.mp4',
