@@ -12,3 +12,13 @@
   .video-js.vjs-hq .vjs-play-progress {
     background-color: #00bcd4;
   }
+
+
+.video-js.vjs-hq .vjs-playback-rate .vjs-icon-placeholder:before {
+  font-family: 'Videojs';
+  content: "\F121";
+}
+
+.video-js.vjs-hq .vjs-playback-rate .vjs-playback-rate-value {
+  display: none
+}
