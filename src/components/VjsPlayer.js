@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import videojs from 'video.js'
 import 'video.js/dist/video-js.css'
+import '../assets/vjs-hq.css'
 import { getOptions } from '../constants/VjsConfig'
 import { initSpacePause } from '../utils/spacePause'
 
